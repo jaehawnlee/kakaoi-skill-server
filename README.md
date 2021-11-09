@@ -1,2 +1,2 @@
 # kakaoi-skillserver
-# kakaoi-skillserver
+# kakaoi-skill-server
