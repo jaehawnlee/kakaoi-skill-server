@@ -6,13 +6,6 @@
 # Compiled class file
 *.class
 
-# etc
-bin/
-build/
-gradle/
-.vscode
-.setting
-
 # Log file
 *.log
 
@@ -31,10 +24,20 @@ gradle/
 *.tar.gz
 *.rar
 
-# gradle
-gradlew*
 
-# ngrok
+# etc
+bin/
+build/
+gradle/
+.gradle/
+.settings
+.classpath
+.project
+*.gradle
+.gitignore
+.vscode
+.setting
+gradlew*
 ngrok.exe
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
