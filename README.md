@@ -9,6 +9,7 @@
 > > > ItemCardProperties : itemcard component
 > > > ListCardProperties : listcard component
 
+
 ## supported
 ### Response
 - basic card
